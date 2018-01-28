@@ -1,0 +1,4 @@
+framework module MyCarthage {
+    header "MyCarthage-Swift.h"
+    requires objc
+}
